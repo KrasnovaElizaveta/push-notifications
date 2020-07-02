@@ -1,3 +1,4 @@
 # push-notifications
 
-#npm start
+npm start
+npm run server
