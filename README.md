@@ -1,1 +1,3 @@
 # push-notifications
+
+#npm start
